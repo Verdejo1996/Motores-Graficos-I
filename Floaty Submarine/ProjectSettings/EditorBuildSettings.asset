@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5bcac7898a6a0264ea4f23b7509fa08b
+  - enabled: 1
+    path: Assets/Scenes/Flappyplay.unity
+    guid: da92f8b2e7483804e94d36be005d7331
+  m_configObjects: {}
